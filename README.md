@@ -2,11 +2,6 @@
 
 **Title : Garbage Grabber**
 
-### Developers
-Harshit Raj - 21BCG10006
-
-Vivek Pathak - 21BCG10147
-
 
 ### Play Now
 
@@ -21,6 +16,8 @@ A garbage catcher game built by Vivek Pathak(https://vivekpathak.itch.io/) and m
 
 
 The controls are simple and self explanatory.
+
+Demo Video walkthrough - https://youtu.be/QEOAsYffXTA
 
 
 ## Clean City Quest
