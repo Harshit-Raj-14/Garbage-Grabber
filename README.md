@@ -12,8 +12,7 @@ Game Link - https://ashborn14.itch.io/garbage-grabber
 
 ## Description
 
-A garbage catcher game built by Vivek Pathak(https://vivekpathak.itch.io/) and me, Harshit Raj(https://ashborn14.itch.io/).
-
+A garbage catcher game.
 
 The controls are simple and self explanatory.
 
